@@ -56,7 +56,7 @@ export default function Home() {
             </p>
             <div className="flex justify-center">
               <div className="inline-block">
-                <img className="mb-11 mx-auto transform hover:translate-y-3 transition ease-in-out duration-1000" src="viewer_example.png" alt="" />
+                <img className="mb-11 mx-auto max-h-96 transform hover:translate-y-3 transition ease-in-out duration-1000" src="viewer_example.png" alt="" />
                 <ul className="flex flex-wrap justify-center -m-8">
                   <li className="w-auto p-8">
                     <a className="text-sm text-indigo-600 hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Real-time Analytics</a>
@@ -241,8 +241,8 @@ export default function Home() {
                     <div className="hidden lg:block absolute left-12 top-1/2 transform -translate-y-1/2 w-96 h-px bg-gray-200" />
                   </div>
                   <div className="md:max-w-xs mx-auto">
-                    <h3 className="mb-4 font-heading text-xl font-bold font-heading leading-normal">Import vti files</h3>
-                    <p className="text-gray-600 font-medium leading-relaxed">Lorem ipsum dolor sit amet consectetur adipiscing elit. Volutpat tempor con.</p>
+                    <h3 className="mb-4 font-heading text-xl font-bold font-heading leading-normal">Generate Model Inference</h3>
+                    <p className="text-gray-600 font-medium leading-relaxed">Generate an inference from your volume and extract a heatmap</p>
                   </div>
                 </div>
               </div>
@@ -257,8 +257,8 @@ export default function Home() {
                     <div className="hidden lg:block absolute left-12 top-1/2 transform -translate-y-1/2 w-96 h-px bg-gray-200" />
                   </div>
                   <div className="md:max-w-xs mx-auto">
-                    <h3 className="mb-4 font-heading text-xl font-bold font-heading leading-normal">Upload to viewer</h3>
-                    <p className="text-gray-600 font-medium leading-relaxed">Lorem ipsum dolor sit amet consectetur adipiscing elit. Volutpat tempor con.</p>
+                    <h3 className="mb-4 font-heading text-xl font-bold font-heading leading-normal">Upload volume</h3>
+                    <p className="text-gray-600 font-medium leading-relaxed">Upload your medical volume to the viewer for rendering</p>
                   </div>
                 </div>
               </div>
@@ -273,8 +273,8 @@ export default function Home() {
                     <div className="hidden lg:block absolute left-12 top-1/2 transform -translate-y-1/2 w-96 h-px bg-gray-200" />
                   </div>
                   <div className="md:max-w-xs mx-auto">
-                    <h3 className="mb-4 font-heading text-xl font-bold font-heading leading-normal">View your files</h3>
-                    <p className="text-gray-600 font-medium leading-relaxed">Lorem ipsum dolor sit amet consectetur adipiscing elit. Volutpat tempor con.</p>
+                    <h3 className="mb-4 font-heading text-xl font-bold font-heading leading-normal">Overlay Heatmap</h3>
+                    <p className="text-gray-600 font-medium leading-relaxed">From your model&apos;s inference, overlay your heatmap</p>
                   </div>
                 </div>
               </div>
@@ -288,8 +288,8 @@ export default function Home() {
                     </div>
                   </div>
                   <div className="md:max-w-xs mx-auto">
-                    <h3 className="mb-4 font-heading text-xl font-bold font-heading leading-normal">Get answers</h3>
-                    <p className="text-gray-600 font-medium leading-relaxed">Lorem ipsum dolor sit amet consectetur adipiscing elit. Volutpat tempor con.</p>
+                    <h3 className="mb-4 font-heading text-xl font-bold font-heading leading-normal">View your files</h3>
+                    <p className="text-gray-600 font-medium leading-relaxed">Use our built in slice, window, and levels to inspect your data</p>
                   </div>
                 </div>
               </div>
