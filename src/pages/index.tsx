@@ -12,6 +12,7 @@ import Faq from '@/components/Faq';
 import Newsletter from '@/components/Newsletter';
 import Footer from '@/components/Footer';
 import Navbar from '@/components/Nav';
+import Steps from '@/components/Steps';
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -57,6 +58,7 @@ export default function Home() {
         <LogoCloud />
         <Feature />
         <FeatureTwo />
+        <Steps />
         <Team />
         <Faq />
         <Newsletter />
