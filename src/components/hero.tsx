@@ -3,7 +3,7 @@
 
 export function Hero() {
     return (
-        <section className="pt-24 pb-28 bg-white overflow-hidden">
+        <section id='about' className="pt-24 pb-28 bg-white overflow-hidden">
             <div className="container px-4 mx-auto">
                 <h2 className="mb-7 text-6xl md:text-8xl xl:text-10xl font-bold font-heading text-center tracking-px-n leading-none">
                     Inference analysis made easy

@@ -1,6 +1,6 @@
 export default function Feature() {
     return (
-        <section className="py-36 bg-white overflow-hidden">
+        <section id='documentation' className="py-36 bg-white overflow-hidden">
             <div className="container px-4 mx-auto">
                 <div className="flex flex-wrap xl:items-center -m-8">
                     <div className="w-full md:w-1/2 p-8">

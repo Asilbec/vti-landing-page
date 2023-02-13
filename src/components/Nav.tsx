@@ -14,18 +14,24 @@ export default function Nav() {
                 <div className="w-auto">
                     <div className="flex flex-wrap items-center">
                         <div className="w-auto hidden lg:block">
-                            <ul className="flex items-center mr-16">
+                            <ul className="flex items-center mr-8">
                                 <li className="mr-9 font-medium hover:text-gray-700">
-                                    <a href="#">Features</a>
+                                    <a href="#about">About</a>
                                 </li>
                                 <li className="mr-9 font-medium hover:text-gray-700">
-                                    <a href="#">Solutions</a>
+                                    <a href="#technologies">Technologies</a>
                                 </li>
                                 <li className="mr-9 font-medium hover:text-gray-700">
-                                    <a href="#">Resources</a>
+                                    <a href="#get-started">Get Started</a>
                                 </li>
-                                <li className="font-medium hover:text-gray-700">
-                                    <a href="#">Pricing</a>
+                                <li className="mr-9 font-medium hover:text-gray-700">
+                                    <a href="#documentation">Documentation</a>
+                                </li>
+                                <li className="mr-9 font-medium hover:text-gray-700">
+                                    <a href="#overview">Overview</a>
+                                </li>
+                                <li className="mr-9 font-medium hover:text-gray-700">
+                                    <a href="#faq">FAQ</a>
                                 </li>
                             </ul>
                         </div>

@@ -1,6 +1,6 @@
 export default function LogoCloud() {
     return (
-        <section className="relative pt-28 pb-36 bg-blueGray-100 overflow-hidden">
+        <section id='technologies' className="relative pt-28 pb-36 bg-blueGray-100 overflow-hidden">
             <img className="absolute top-0 left-0" src="flaro-assets/images/logos/gradient3.svg" alt="" />
             <div className="relative z-10 container px-4 mx-auto">
                 <p className="mb-14 text-sm text-gray-600 text-center font-semibold uppercase tracking-px">

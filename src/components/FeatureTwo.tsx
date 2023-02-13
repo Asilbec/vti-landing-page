@@ -1,6 +1,6 @@
 export default function FeatureTwo() {
     return (
-        <section className="py-32 bg-white overflow-hidden">
+        <section id='get-started' className="py-32 bg-white overflow-hidden">
             <div className="container px-4 mx-auto">
                 <div className="flex flex-wrap items-center -m-8">
                     <div className="w-full md:w-1/2 p-8">

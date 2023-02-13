@@ -1,7 +1,7 @@
 export default function Faq() {
     return (
 
-        <section className="pt-28 pb-32 bg-white overflow-hidden">
+        <section id='faq' className="pt-28 pb-32 bg-white overflow-hidden">
             <div className="container px-4 mx-auto">
                 <p className="mb-5 text-sm text-indigo-600 font-semibold uppercase tracking-px">Common answers to</p>
                 <h2 className="mb-16 text-3xl md:text-5xl xl:text-6xl font-bold font-heading tracking-px-n leading-none">Frequently Asked Questions</h2>

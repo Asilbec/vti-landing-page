@@ -1,6 +1,6 @@
 export default function Steps() {
     return (
-        <section className="relative pt-28 pb-24 bg-white overflow-hidden">
+        <section id='overview' className="relative pt-28 pb-24 bg-white overflow-hidden">
             <img className="absolute left-1/2 top-0 transform -translate-x-1/2" src="flaro-assets/images/how-it-works/gradient2.svg" alt="" />
             <div className="relative z-10 container px-4 mx-auto">
                 <p className="mb-6 text-sm text-indigo-600 text-center font-semibold uppercase tracking-px">How this works</p>
