@@ -3,32 +3,32 @@ export default function Teams() {
 
         <section className="pt-28 pb-32 bg-white overflow-hidden">
             <div className="container px-4 mx-auto">
-                <p className="mb-5 text-sm text-indigo-600 font-semibold uppercase tracking-px">Frequently Asked questions</p>
-                <h2 className="mb-16 text-6xl md:text-8xl xl:text-10xl font-bold font-heading tracking-px-n leading-none">Common Answers</h2>
+                <p className="mb-5 text-sm text-indigo-600 font-semibold uppercase tracking-px">Common answers to</p>
+                <h2 className="mb-16 text-3xl md:text-5xl xl:text-6xl font-bold font-heading tracking-px-n leading-none">Frequently Asked Questions</h2>
                 <div className="mb-8 md:max-w-5xl">
                     <div className="flex flex-wrap -m-4">
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">1. How can I use this for research?</h3>
-                                <p className="font-sans text-gray-600 leading-relaxed">The web viewer allows you to understand your model&apos;s inferences in relation to real data in a visually appealing, intuitive manner.</p>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">1. How does Flaro help you in problems?</h3>
+                                <p className="font-sans text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, to the consectr adipiscing elit. Volutpat tempor condimentum vitae vel purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>
                         </div>
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">2. What does it cost? </h3>
-                                <p className="font-sans text-gray-600 leading-relaxed">Nothing. Our project is free to use and open source for all personal and research purposes. We want to help you do good.</p>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">2. What makes us look good?</h3>
+                                <p className="font-sans text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, to the consectr adipiscing elit. Volutpat tempor condimentum vitae vel purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>
                         </div>
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">3. I have special use case. Can I customize the code?</h3>
-                                <p className="font-sans text-gray-600 leading-relaxed">Absolutely! Don&apos;t hesitate to make any changes or modifications to what we have.</p>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">3. How to claim your 25% discount offer?</h3>
+                                <p className="font-sans text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, to the consectr adipiscing elit. Volutpat tempor condimentum vitae vel purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>
                         </div>
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">4. I'm having trouble figuring everything out. Where can I learn to use everything?</h3>
-                                <p className="font-sans text-gray-600 leading-relaxed">Check out our documentation. Everything from how to install to customizing your own code can be found there.</p>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">4. How to get support for the product?</h3>
+                                <p className="font-sans text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, to the consectr adipiscing elit. Volutpat tempor condimentum vitae vel purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                             </div>
                         </div>
                     </div>
