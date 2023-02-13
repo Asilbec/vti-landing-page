@@ -17,16 +17,16 @@ export function Hero() {
                         <img className="mb-11 mx-auto max-h-96 transform hover:translate-y-3 transition ease-in-out duration-1000" src="viewer_example.png" alt="" />
                         <ul className="flex flex-wrap justify-center -m-8">
                             <li className="w-auto p-8">
-                                <a className="text-sm text-indigo-600 hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Real-time Analytics</a>
+                                <a className="text-sm text-indigo-600 hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Real-time Visualization</a>
                             </li>
                             <li className="w-auto p-8">
-                                <a className="text-sm text-gray-400 hover:text-gray-500 font-semibold uppercase tracking-px" href="#">Easy Projects</a>
+                                <a className="text-sm text-gray-400 hover:text-gray-500 font-semibold uppercase tracking-px" href="#">Easy to Use</a>
                             </li>
                             <li className="w-auto p-8">
-                                <a className="text-sm text-gray-400 hover:text-gray-500 font-semibold uppercase tracking-px" href="#">Email Notification</a>
+                                <a className="text-sm text-gray-400 hover:text-gray-500 font-semibold uppercase tracking-px" href="#">Clear Documentation</a>
                             </li>
                             <li className="w-auto p-8">
-                                <a className="text-sm text-gray-400 hover:text-gray-500 font-semibold uppercase tracking-px" href="#">Cloud Servers</a>
+                                <a className="text-sm text-gray-400 hover:text-gray-500 font-semibold uppercase tracking-px" href="#">Customizable</a>
                             </li>
                         </ul>
                     </div>
