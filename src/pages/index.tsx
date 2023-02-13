@@ -59,8 +59,9 @@ export default function Home() {
         <FeatureTwo />
         <Feature />
         <Steps />
-        <Team />
         <Faq />
+        <Team />
+
         
         {/* Removed newsletter for right now */}
         {/* <Newsletter /> */}
