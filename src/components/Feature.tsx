@@ -4,7 +4,7 @@ export default function Feature() {
             <div className="container px-4 mx-auto">
                 <div className="flex flex-wrap xl:items-center -m-8">
                     <div className="w-full md:w-1/2 p-8">
-                        <img className="mx-auto transform hover:translate-y-3 transition ease-in-out duration-1000" src="flaro-assets/images/features/upgrade.png" alt="" />
+                        <img className="mx-auto transform hover:translate-y-3 transition ease-in-out duration-1000" src="isotest.png" alt="" />
                     </div>
                     <div className="w-full md:w-1/2 p-8">
                         <div className="md:max-w-xl">
