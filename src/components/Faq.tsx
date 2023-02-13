@@ -9,26 +9,26 @@ export default function Teams() {
                     <div className="flex flex-wrap -m-4">
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">1. How does Flaro help you in problems?</h3>
-                                <p className="font-sans text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, to the consectr adipiscing elit. Volutpat tempor condimentum vitae vel purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">1. How can I use this for research?</h3>
+                                <p className="font-sans text-gray-600 leading-relaxed">The web viewer allows you to understand your model&apos;s inferences in relation to real data in a visually appealing, intuitive manner.</p>
                             </div>
                         </div>
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">2. What makes us look good?</h3>
-                                <p className="font-sans text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, to the consectr adipiscing elit. Volutpat tempor condimentum vitae vel purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">2. What does it cost? </h3>
+                                <p className="font-sans text-gray-600 leading-relaxed">Nothing. Our project is free to use and open source for all personal and research purposes. We want to help you do good.</p>
                             </div>
                         </div>
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">3. How to claim your 25% discount offer?</h3>
-                                <p className="font-sans text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, to the consectr adipiscing elit. Volutpat tempor condimentum vitae vel purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">3. I have special use case. Can I customize the code?</h3>
+                                <p className="font-sans text-gray-600 leading-relaxed">Absolutely! Don&apos;t hesitate to make any changes or modifications to what we have.</p>
                             </div>
                         </div>
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">4. How to get support for the product?</h3>
-                                <p className="font-sans text-gray-600 leading-relaxed">Lorem ipsum dolor sit amet, to the consectr adipiscing elit. Volutpat tempor condimentum vitae vel purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">4. I'm having trouble figuring everything out. Where can I learn to use everything?</h3>
+                                <p className="font-sans text-gray-600 leading-relaxed">Check out our documentation. Everything from how to install to customizing your own code can be found there.</p>
                             </div>
                         </div>
                     </div>

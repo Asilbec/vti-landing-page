@@ -17,13 +17,13 @@ export function Hero() {
                         <img className="mb-11 mx-auto max-h-96 transform hover:translate-y-3 transition ease-in-out duration-1000" src="viewer_example.png" alt="" />
                         <ul className="flex flex-wrap justify-center -m-8">
                             <li className="w-auto p-8">
-                                <a className="text-sm  text-black hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Real-time Visualization</a>
+                                <a className="text-sm text-gray-400 hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Real-time Visualization</a>
                             </li>
                             <li className="w-auto p-8">
                                 <a className="text-sm text-black hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Easy to Use</a>
                             </li>
                             <li className="w-auto p-8">
-                                <a className="text-sm  text-black hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Clear Documentation</a>
+                                <a className="text-sm text-gray-400 hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Clear Documentation</a>
                             </li>
                             <li className="w-auto p-8">
                                 <a className="text-sm  text-black hover:text-indigo-700 font-semibold uppercase tracking-px" href="#">Customizable</a>
