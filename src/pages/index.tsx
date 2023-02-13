@@ -56,12 +56,15 @@ export default function Home() {
       <div className='max-w-screen-xl m-auto'>
         <Hero />
         <LogoCloud />
-        <Feature />
         <FeatureTwo />
+        <Feature />
         <Steps />
         <Team />
         <Faq />
-        <Newsletter />
+        
+        {/* Removed newsletter for right now */}
+        {/* <Newsletter /> */}
+        {/* Removed newsletter for right now */}
       </div>
       <Footer />
     </>
