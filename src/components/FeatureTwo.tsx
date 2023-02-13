@@ -8,8 +8,8 @@ export default function FeatureTwo() {
                             Visualize data like never before
                         </h2>
                         <p className="mb-10 text-lg text-gray-900 font-medium leading-relaxed md:max-w-md">
-                            Our viewer lets you bring a new understanding to you and 
-                            your model&apos;s analysis. 
+                            Our viewer lets you bring a new understanding to you and
+                            your model&apos;s analysis.
                         </p>
                         <div className="mb-11 md:inline-block rounded-xl shadow-4xl">
                             <button className="py-4 px-6 w-full text-white font-semibold border border-indigo-700 rounded-xl focus:ring focus:ring-indigo-300 bg-indigo-600 hover:bg-indigo-700 transition ease-in-out duration-200" type="button">
@@ -22,7 +22,7 @@ export default function FeatureTwo() {
                             </div>
                             <div className="flex-1 p-2">
                                 <p className="text-gray-600 font-medium md:max-w-sm">
-                                    That's right, our open source engine is free to use for all personal and research purposes.
+                                    That&aspos;s right, our open source engine is free to use for all personal and research purposes.
                                 </p>
                             </div>
                         </div>

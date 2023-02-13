@@ -47,7 +47,7 @@ export default function Feature() {
                                                     Easy to Use
                                                 </h3>
                                                 <p className="text-gray-600 font-medium leading-relaxed">
-                                                    whether you're a beginner or a seasoned pro, our documentation has everything you need
+                                                    whether you&aspos;re a beginner or a seasoned pro, our documentation has everything you need
                                                 </p>
                                             </div>
                                         </div>
