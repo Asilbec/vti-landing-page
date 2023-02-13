@@ -9,10 +9,10 @@ export default function Feature() {
                     <div className="w-full md:w-1/2 p-8">
                         <div className="md:max-w-xl">
                             <p className="mb-7 text-sm text-gray-600 font-semibold uppercase tracking-px">
-                                👋 Meet new Flaro
+                                👋 Meet the new open-source viewer!
                             </p>
-                            <h2 className="mb-32 text-6xl md:text-7xl font-bold font-heading tracking-px-n leading-tight">
-                                Upgrade to pro to unlock all features.
+                            <h2 className="mb-32 text-3xl md:text-5xl font-bold font-heading tracking-px-n leading-tight">
+                                Our Comprehensive Documentation
                             </h2>
                             <div className="flex flex-wrap mb-5 -m-8">
                                 <div className="w-full md:w-1/2 p-8">
@@ -25,10 +25,10 @@ export default function Feature() {
                                             </div>
                                             <div className="flex-1 p-2">
                                                 <h3 className="mb-2 text-xl font-semibold leading-normal">
-                                                    Analytical
+                                                    Step by step guides
                                                 </h3>
                                                 <p className="text-gray-600 font-medium leading-relaxed">
-                                                    Lorem ipsum dolor sit amet, to the consectr adipis.
+                                                    Learn how to use all its features with detailed instructions, examples, and tutorials
                                                 </p>
                                             </div>
                                         </div>
@@ -44,10 +44,10 @@ export default function Feature() {
                                             </div>
                                             <div className="flex-1 p-2">
                                                 <h3 className="mb-2 text-xl font-semibold leading-normal">
-                                                    Dashboards
+                                                    Easy to Use
                                                 </h3>
                                                 <p className="text-gray-600 font-medium leading-relaxed">
-                                                    Lorem ipsum dolor sit amet, to the consectr adipis.
+                                                    whether you're a beginner or a seasoned pro, our documentation has everything you need
                                                 </p>
                                             </div>
                                         </div>
