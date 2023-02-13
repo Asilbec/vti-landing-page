@@ -27,7 +27,7 @@ export default function Teams() {
                         </div>
                         <div className="w-full md:w-1/2 p-4">
                             <div className="p-6 border border-gray-200 rounded-2xl shadow-10xl">
-                                <h3 className="mb-4 text-lg font-semibold leading-normal">4. I&aspos;m having trouble figuring everything out. Where can I learn to use everything?</h3>
+                                <h3 className="mb-4 text-lg font-semibold leading-normal">4. I&apos;m having trouble figuring everything out. Where can I learn to use everything?</h3>
                                 <p className="font-sans text-gray-600 leading-relaxed">Check out our documentation. Everything from how to install to customizing your own code can be found there.</p>
                             </div>
                         </div>

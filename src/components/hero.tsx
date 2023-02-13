@@ -9,7 +9,7 @@ export function Hero() {
                     Inference analysis made easy
                 </h2>
                 <p className="mb-14 text-lg text-gray-600 font-medium text-center mx-auto md:max-w-2xl">
-                    Looking to better analyze medical volumes or understand your AI model&aspos;s inference? Our private,
+                    Looking to better analyze medical volumes or understand your AI model&apos;s inference? Our private,
                     zero-footprint, web based renderer can help.
                 </p>
                 <div className="flex justify-center">

@@ -22,7 +22,7 @@ export default function FeatureTwo() {
                             </div>
                             <div className="flex-1 p-2">
                                 <p className="text-gray-600 font-medium md:max-w-sm">
-                                    That&aspos;s right, our open source engine is free to use for all personal and research purposes.
+                                    That&apos;s right, our open source engine is free to use for all personal and research purposes.
                                 </p>
                             </div>
                         </div>
