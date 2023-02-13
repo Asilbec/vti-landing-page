@@ -1,4 +1,4 @@
-export default function Teams() {
+export default function Faq() {
     return (
 
         <section className="pt-28 pb-32 bg-white overflow-hidden">

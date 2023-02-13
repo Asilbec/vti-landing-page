@@ -61,7 +61,7 @@ export default function Home() {
         <Steps />
         <Team />
         <Faq />
-        
+
         {/* Removed newsletter for right now */}
         {/* <Newsletter /> */}
         {/* Removed newsletter for right now */}
