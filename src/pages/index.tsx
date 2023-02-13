@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 import { Disclosure, Transition } from "@headlessui/react";
-import { Hero } from '@/components/hero';
+import { Hero } from '@/components/Hero';
 import LogoCloud from '@/components/LogoCloud';
 import Feature from '@/components/Feature';
 import FeatureTwo from '@/components/FeatureTwo';
