@@ -4,7 +4,7 @@ export default function FeatureTwo() {
             <div className="container px-4 mx-auto">
                 <div className="flex flex-wrap items-center -m-8">
                     <div className="w-full md:w-1/2 p-8">
-                        <h2 className="mb-9 text-6xl md:text-8xl xl:text-10xl font-bold font-heading tracking-px-n leading-none">
+                        <h2 className="mb-9 text-3xl md:text-5xl xl:text-6xl font-bold font-heading tracking-px-n leading-none">
                             Visualize data like never before
                         </h2>
                         <p className="mb-10 text-lg text-gray-900 font-medium leading-relaxed md:max-w-md">
@@ -28,7 +28,7 @@ export default function FeatureTwo() {
                         </div>
                     </div>
                     <div className="w-full md:w-1/2 p-8">
-                        <img className="transform hover:-translate-x-16 transition ease-in-out duration-1000" src="flaro-assets/images/features/feature2.png" alt="" />
+                        <img className="transform hover:-translate-x-16 transition ease-in-out duration-1000" src="https://cdn.technologyadvice.com/wp-content/uploads/2015/05/dicom-viewers-700x408.jpg" alt="" />
                     </div>
                 </div>
             </div>
